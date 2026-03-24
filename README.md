@@ -2,7 +2,7 @@
 ## About Me
 ```
 ID ： parthloglogn  
-Website：https://www.loglogn.com  
+in/parth-kanani-21976122b  
 ```
 
 ## 🐍 Contribution Activity
