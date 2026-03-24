@@ -2,7 +2,6 @@
 <h3 align="center">Developer exploring AI agents, backend systems, and developer tooling</h3>
 
 <p align="center">
-  <a href="https://www.loglogn.com">Website</a> •
   <a href="https://www.linkedin.com/in/parth-kanani-21976122b">LinkedIn</a> •
   <a href="https://bsky.app/profile/parth45.bsky.social">Bluesky</a>
 </p>
@@ -14,7 +13,6 @@
 - 🔭 Currently working on AI agents and MCP-based tools
 - 🌱 Exploring Java, Python, and observability tooling
 - 🛠 Interested in backend engineering, developer tools, and practical AI
-- 🌐 Website: [loglogn.com](https://www.loglogn.com)
 - 💼 LinkedIn: [parth-kanani-21976122b](https://www.linkedin.com/in/parth-kanani-21976122b)
 
 ## Tech Stack
